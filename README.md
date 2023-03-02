@@ -77,6 +77,7 @@ Click this repo and clone it using git clone and  use “npm run deploy” to de
 
     
 Video walkthrough: Google Cloud Functions Tutorial: [HTTP & API Gateway & Pub/Sub Triggers + Authentication & Serverless](https://www.youtube.com/watch?v=LAcErtGU-VU&t=521s)
+
 Demo starts after 7:31
 
 ***
