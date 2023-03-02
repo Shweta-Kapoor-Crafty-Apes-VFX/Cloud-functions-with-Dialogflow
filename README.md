@@ -55,9 +55,9 @@ Note: If you have git repo and clone this repo from github
  
 
 
-Video walkthrough How to deploy node express app with firebase functions in 5 minutes
-
-Follow this if you want to clone repo from github
+Video walkthrough [How to deploy node express app with firebase functions in 5 minutes
+](https://www.youtube.com/watch?v=VStXlFxQgZg)
+    
 Click this repo and clone it using git clone and  use “npm run deploy” to deploy it and if there are no errors you can see your functions in cloud functions here :https://console.cloud.google.com/functions/list?
 
 ***    
@@ -76,7 +76,7 @@ Click this repo and clone it using git clone and  use “npm run deploy” to de
 10. Add Mount path and then click done.
 
     
-Video walkthrough: Google Cloud Functions Tutorial: HTTP & API Gateway & Pub/Sub Triggers + Authentication & Serverless
+Video walkthrough: Google Cloud Functions Tutorial: [HTTP & API Gateway & Pub/Sub Triggers + Authentication & Serverless](https://www.youtube.com/watch?v=LAcErtGU-VU&t=521s)
 Demo starts after 7:31
 
 ***
@@ -90,7 +90,7 @@ Demo starts after 7:31
 6.On the upper right corner, there is a section to try the webhook. Type in your answer and see the results.
 
     
-Video walkthrough: Dialogflow & Landbot | Lesson #1 | Create your first agent and intent in Dialogflow
+Video walkthrough: [Dialogflow & Landbot | Lesson #1 | Create your first agent and intent in Dialogflow](https://www.youtube.com/watch?v=jDdSfyTGUT0)
 
 *** 
     
@@ -101,12 +101,12 @@ STEP 5 : Integrate Dialogflow into GC Chat
 4.Search for your bot.
 
 
-Video walkthrough:Dialogflow Tutorials: How to create Hangouts Chatbot
+Video walkthrough:Dialogflow Tutorials: [How to create Hangouts Chatbot](https://www.youtube.com/watch?v=0cc2kjtMCMU&t=254s)
 
 ***
 
 Additional Resources 
-Video walkthrough for setting bot locally : OpenAI (GPT-3) and Dialogflow ES connection | Connect Dialogflow ES to OpenAI | NodeJS | with code
+Video walkthrough for setting bot locally : [OpenAI (GPT-3) and Dialogflow ES connection | Connect Dialogflow ES to OpenAI | NodeJS | with code](https://www.youtube.com/watch?v=OVvs32QTj4A&t=35s)
 
 Blog : https://medium.com/@inewtechs/ai-nlp-dialogflow-chatbot-fulfillment-webhook-with-gcp-serverless-cloud-function-node-js-e4a61d1b2d38
 https://medium.com/@antonyharfield/dialogflow-web-hooks-how-to-develop-locally-and-deploy-to-cloud-functions-48839919e998
