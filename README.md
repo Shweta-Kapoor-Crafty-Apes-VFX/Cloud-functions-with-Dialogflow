@@ -84,12 +84,12 @@ Demo starts after 7:31
     
 # STEP 4 : Create a Dialogflow bot, add a webhook and test it
 
-1.Go to Dialogflow console here https://dialogflow.cloud.google.com   
-2.Click create new agent, setup agent name, Google project, Timezone and Language.
-3.Navigate to Fulfillment and enable webhook and in the URL paste function URL followed by route. For example: https://us-central1-chat-bot-shweta.cloudfunctions.net/app-1/dialogflow.
-4.Notice “/dialogflow” is the route and before any of that is function URL.
-5.Navigate to intent, click Default Fallback Intent scroll down to Fullfilments and Enable webhook call for this intent. Click Save.
-6.On the upper right corner, there is a section to try the webhook. Type in your answer and see the results.
+1. Go to Dialogflow console here https://dialogflow.cloud.google.com   
+2. Click create new agent, setup agent name, Google project, Timezone and Language.
+3. Navigate to Fulfillment and enable webhook and in the URL paste function URL followed by route. For example: https://us-central1-chat-bot-shweta.cloudfunctions.net/app-1/dialogflow.
+4. Notice “/dialogflow” is the route and before any of that is function URL.
+5. Navigate to intent, click Default Fallback Intent scroll down to Fullfilments and Enable webhook call for this intent. Click Save.
+6. On the upper right corner, there is a section to try the webhook. Type in your answer and see the results.
 
     
 Video walkthrough: [Dialogflow & Landbot | Lesson #1 | Create your first agent and intent in Dialogflow](https://www.youtube.com/watch?v=jDdSfyTGUT0)
