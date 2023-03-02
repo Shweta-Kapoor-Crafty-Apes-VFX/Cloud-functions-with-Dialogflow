@@ -83,12 +83,12 @@ Demo starts after 7:31
 ***
     
 # STEP 4 : Create a Dialogflow bot, add a webhook and test it
-1.Go to Dialogflow console here https://dialogflow.cloud.google.com
-2.Click create new agent, setup agent name, Google project, Timezone and Language.
-3.Navigate to Fulfillment and enable webhook and in the URL paste function URL followed by route. For example: https://us-central1-chat-bot-shweta.cloudfunctions.net/app-1/dialogflow.
-4.Notice “/dialogflow” is the route and before any of that is function URL.
-5.Navigate to intent, click Default Fallback Intent scroll down to Fullfilments and Enable webhook call for this intent. Click Save.
-6.On the upper right corner, there is a section to try the webhook. Type in your answer and see the results.
+    1.Go to Dialogflow console here https://dialogflow.cloud.google.com
+    2.Click create new agent, setup agent name, Google project, Timezone and Language.
+    3.Navigate to Fulfillment and enable webhook and in the URL paste function URL followed by route. For example: https://us-central1-chat-bot-shweta.cloudfunctions.net/app-1/dialogflow.
+    4.Notice “/dialogflow” is the route and before any of that is function URL.
+    5.Navigate to intent, click Default Fallback Intent scroll down to Fullfilments and Enable webhook call for this intent. Click Save.
+    6.On the upper right corner, there is a section to try the webhook. Type in your answer and see the results.
 
     
 Video walkthrough: [Dialogflow & Landbot | Lesson #1 | Create your first agent and intent in Dialogflow](https://www.youtube.com/watch?v=jDdSfyTGUT0)
@@ -96,10 +96,10 @@ Video walkthrough: [Dialogflow & Landbot | Lesson #1 | Create your first agent a
 *** 
     
 STEP 5 : Integrate Dialogflow into GC Chat
-1.Go to Integrations in Dialogflow console https://dialogflow.cloud.google.com/#/agent/chat-bot-shweta/integrations
-2.Choose settings and configure it (If you already set up GCP project and setup configuration skip configuration in this tep)
-3.Click https://mail.google.com/chat/u/0/ , click + sign and click Find apps
-4.Search for your bot.
+    1.Go to Integrations in Dialogflow console https://dialogflow.cloud.google.com/#/agent/chat-bot-shweta/integrations
+    2.Choose settings and configure it (If you already set up GCP project and setup configuration skip configuration in this tep)
+    3.Click https://mail.google.com/chat/u/0/ , click + sign and click Find apps
+    4.Search for your bot.
 
 
 Video walkthrough:Dialogflow Tutorials: [How to create Hangouts Chatbot](https://www.youtube.com/watch?v=0cc2kjtMCMU&t=254s)
