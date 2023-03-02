@@ -106,7 +106,7 @@ Video walkthrough:Dialogflow Tutorials: [How to create Hangouts Chatbot](https:/
 
 ***
 
-Additional Resources 
+## Additional Resources 
 Video walkthrough for setting bot locally : [OpenAI (GPT-3) and Dialogflow ES connection | Connect Dialogflow ES to OpenAI | NodeJS | with code](https://www.youtube.com/watch?v=OVvs32QTj4A&t=35s)
 
 Blog : 
