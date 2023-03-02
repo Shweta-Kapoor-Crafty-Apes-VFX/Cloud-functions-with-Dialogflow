@@ -97,13 +97,10 @@ Video walkthrough: [Dialogflow & Landbot | Lesson #1 | Create your first agent a
 *** 
     
 STEP 5 : Integrate Dialogflow into GC Chat
-1.Go to Integrations in Dialogflow console https://dialogflow.cloud.google.com/#/agent/chat-bot-shweta/integrations
-
-2.Choose settings and configure it (If you already set up GCP project and setup configuration skip configuration in this tep)
-    
-3.Click https://mail.google.com/chat/u/0/ , click + sign and click Find apps
-
-4.Search for your bot.
+1. Go to Integrations in Dialogflow console https://dialogflow.cloud.google.com/#/agent/chat-bot-shweta/integrations
+2. Choose settings and configure it (If you already set up GCP project and setup configuration skip configuration in this tep)    
+3. Click https://mail.google.com/chat/u/0/ , click + sign and click Find apps
+4. Search for your bot.
 
 
 Video walkthrough:Dialogflow Tutorials: [How to create Hangouts Chatbot](https://www.youtube.com/watch?v=0cc2kjtMCMU&t=254s)
