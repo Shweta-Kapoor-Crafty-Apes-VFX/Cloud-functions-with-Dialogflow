@@ -110,8 +110,8 @@ Additional Resources
 Video walkthrough for setting bot locally : [OpenAI (GPT-3) and Dialogflow ES connection | Connect Dialogflow ES to OpenAI | NodeJS | with code](https://www.youtube.com/watch?v=OVvs32QTj4A&t=35s)
 
 Blog : 
-    https://medium.com/@inewtechs/ai-nlp-dialogflow-chatbot-fulfillment-webhook-with-gcp-serverless-cloud-function-node-js-e4a61d1b2d38
-    https://medium.com/@antonyharfield/dialogflow-web-hooks-how-to-develop-locally-and-deploy-to-cloud-functions-48839919e998
+  *  https://medium.com/@inewtechs/ai-nlp-dialogflow-chatbot-fulfillment-webhook-with-gcp-serverless-cloud-function-node-js-e4a61d1b2d38
+  *  https://medium.com/@antonyharfield/dialogflow-web-hooks-how-to-develop-locally-and-deploy-to-cloud-functions-48839919e998
 
 Deep dive: [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY&t=937s)
 
