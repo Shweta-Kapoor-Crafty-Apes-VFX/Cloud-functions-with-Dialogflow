@@ -53,6 +53,8 @@ Note: If you have git repo and clone this repo from github
 14. Use “npm run serve” to test locally (You may not always able to hit the route if you test cloud functions locally)
 15. Use “npm run deploy” to deploy it and if there are no errors you can see your functions in cloud functions here :https://console.cloud.google.com/functions/list?
  
+
+
 Video walkthrough How to deploy node express app with firebase functions in 5 minutes
 
 Follow this if you want to clone repo from github
@@ -72,6 +74,8 @@ Click this repo and clone it using git clone and  use “npm run deploy” to de
 8. Go into your already deployed functions, edit it and under Runtime, build, connections and security settings click SECURITY AND IMAGE REPO and click REFERENCE A SECRET
 9. Write Mounted as volume under Reference method
 10. Add Mount path and then click done.
+
+    
 Video walkthrough: Google Cloud Functions Tutorial: HTTP & API Gateway & Pub/Sub Triggers + Authentication & Serverless
 Demo starts after 7:31
 
@@ -84,6 +88,8 @@ Demo starts after 7:31
 4.Notice “/dialogflow” is the route and before any of that is function URL.
 5.Navigate to intent, click Default Fallback Intent scroll down to Fullfilments and Enable webhook call for this intent. Click Save.
 6.On the upper right corner, there is a section to try the webhook. Type in your answer and see the results.
+
+    
 Video walkthrough: Dialogflow & Landbot | Lesson #1 | Create your first agent and intent in Dialogflow
 
 *** 
@@ -101,7 +107,9 @@ Video walkthrough:Dialogflow Tutorials: How to create Hangouts Chatbot
 
 Additional Resources 
 Video walkthrough for setting bot locally : OpenAI (GPT-3) and Dialogflow ES connection | Connect Dialogflow ES to OpenAI | NodeJS | with code
+
 Blog : https://medium.com/@inewtechs/ai-nlp-dialogflow-chatbot-fulfillment-webhook-with-gcp-serverless-cloud-function-node-js-e4a61d1b2d38
 https://medium.com/@antonyharfield/dialogflow-web-hooks-how-to-develop-locally-and-deploy-to-cloud-functions-48839919e998
+
 Deep dive: Build a Serverless API with Firebase cloud functions, TypeScript and Firestore
 
