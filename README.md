@@ -1,5 +1,7 @@
 # Cloud-functions-with-Dialogflow
 GC chat integrated Dialogflow bot with openAI API integration project 
+
+
 STEP 1 : Create a GCP Dialogflow project
 
 STEP 2 : Creating Google cloud function as a webhook using Firebase
