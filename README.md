@@ -90,6 +90,7 @@ Demo starts after 7:31
 4. Notice “/dialogflow” is the route and before any of that is function URL.
 5. Navigate to intent, click Default Fallback Intent scroll down to Fullfilments and Enable webhook call for this intent. Click Save.
 6. On the upper right corner, there is a section to try the webhook. Type in your answer and see the results.
+7. Ensure that the Action(input.unknown) name in Dialogflow should match Action provided in code. 
 
     
 Video walkthrough: [Dialogflow & Landbot | Lesson #1 | Create your first agent and intent in Dialogflow](https://www.youtube.com/watch?v=jDdSfyTGUT0)
@@ -115,4 +116,23 @@ Blog :
   *  https://medium.com/@antonyharfield/dialogflow-web-hooks-how-to-develop-locally-and-deploy-to-cloud-functions-48839919e998
 
 Deep dive: [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY&t=937s)
+
+
+## Understand API Structure
+Use postman to understand the structure of the response. 
+
+Go here : https://www.postman.com/
+
+1. Click collection on the left
+2. create a collection, name it
+3. Under Auth select Bearer Token as Type 
+4. Add openai API key in Token
+5. Select entire token and set as variable OPENAI_API_KEY and press save
+6. Create a new request using “+” on the right of your collection name.
+7. Change it to POST and add the URL “https://api.openai.com/v1/chat/completions”
+8. In Body tab click raw and then make it JSON
+9. Add code in the body and hit send 
+10. We can see the response.
+
+Video walkthrough: [How to get started with the OpenAI API call to use ChatGPT with Postman](https://www.youtube.com/watch?v=PvH_Bcx7ZGY)
 
